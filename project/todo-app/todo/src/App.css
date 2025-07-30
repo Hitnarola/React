@@ -1,0 +1,21 @@
+h1{
+  font-weight: 700;
+  font-size: 50px;
+  margin: 10px;
+  margin-bottom: 25px;
+}
+
+input{
+  width: 100%;
+}
+.todo_container{
+  text-align: left;
+}
+
+.id_row{
+  margin :10px 5px;
+}
+
+.id_butt{
+  min-width: 80px;
+}
